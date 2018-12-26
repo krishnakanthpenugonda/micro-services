@@ -1,0 +1,6 @@
+/home/centos/micro-serivices-Demo/microservice-kubernetes-demo/microservice-kubernetes-demo-catalog/src/test/java/com/ewolff/microservice/catalog/cdc/CatalogConsumerDrivenContractTest.java
+/home/centos/micro-serivices-Demo/microservice-kubernetes-demo/microservice-kubernetes-demo-catalog/src/test/java/com/ewolff/microservice/catalog/CatalogTestApp.java
+/home/centos/micro-serivices-Demo/microservice-kubernetes-demo/microservice-kubernetes-demo-catalog/src/test/java/com/ewolff/microservice/catalog/cdc/CatalogClient.java
+/home/centos/micro-serivices-Demo/microservice-kubernetes-demo/microservice-kubernetes-demo-catalog/src/test/java/com/ewolff/microservice/catalog/CatalogWebIntegrationTest.java
+/home/centos/micro-serivices-Demo/microservice-kubernetes-demo/microservice-kubernetes-demo-catalog/src/test/java/com/ewolff/microservice/catalog/RepositoryTest.java
+/home/centos/micro-serivices-Demo/microservice-kubernetes-demo/microservice-kubernetes-demo-catalog/src/test/java/com/ewolff/microservice/catalog/cdc/Item.java

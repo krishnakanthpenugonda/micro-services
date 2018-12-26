@@ -1,0 +1,5 @@
+/home/centos/micro-serivices-Demo/microservice-kubernetes-demo/microservice-kubernetes-demo-catalog/src/main/java/com/ewolff/microservice/catalog/SpringRestDataConfig.java
+/home/centos/micro-serivices-Demo/microservice-kubernetes-demo/microservice-kubernetes-demo-catalog/src/main/java/com/ewolff/microservice/catalog/Item.java
+/home/centos/micro-serivices-Demo/microservice-kubernetes-demo/microservice-kubernetes-demo-catalog/src/main/java/com/ewolff/microservice/catalog/CatalogApp.java
+/home/centos/micro-serivices-Demo/microservice-kubernetes-demo/microservice-kubernetes-demo-catalog/src/main/java/com/ewolff/microservice/catalog/ItemRepository.java
+/home/centos/micro-serivices-Demo/microservice-kubernetes-demo/microservice-kubernetes-demo-catalog/src/main/java/com/ewolff/microservice/catalog/web/CatalogController.java

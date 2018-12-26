@@ -1,0 +1,5 @@
+/home/centos/micro-serivices-Demo/microservice-kubernetes-demo/microservice-kubernetes-demo-customer/src/test/java/com/ewolff/microservice/customer/cdc/CustomerConsumerDrivenContractTest.java
+/home/centos/micro-serivices-Demo/microservice-kubernetes-demo/microservice-kubernetes-demo-customer/src/test/java/com/ewolff/microservice/customer/CustomerTestApp.java
+/home/centos/micro-serivices-Demo/microservice-kubernetes-demo/microservice-kubernetes-demo-customer/src/test/java/com/ewolff/microservice/customer/CustomerWebIntegrationTest.java
+/home/centos/micro-serivices-Demo/microservice-kubernetes-demo/microservice-kubernetes-demo-customer/src/test/java/com/ewolff/microservice/customer/cdc/CustomerClient.java
+/home/centos/micro-serivices-Demo/microservice-kubernetes-demo/microservice-kubernetes-demo-customer/src/test/java/com/ewolff/microservice/customer/cdc/Customer.java
